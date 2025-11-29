@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>robnewtec</ShortName>
+	<Description>Search Robotica e Nuove Tecnologie - </Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://robnewtec.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://robnewtec.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://robnewtec.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://robnewtec.wordpress.com/osd.xml" />
+	<LongName>Robotica e Nuove Tecnologie</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://secure.gravatar.com/blavatar/82653de906c1f2f4dc04c5849e5a95447ac09907db9356e204cca9e6de200f3c?s=16&#038;d=https%3A%2F%2Frobnewtec.wordpress.com%2Ffavicon.ico</Image>
+	<Image height="64" width="64" type="image/png">https://secure.gravatar.com/blavatar/82653de906c1f2f4dc04c5849e5a95447ac09907db9356e204cca9e6de200f3c?s=64&#038;d=https%3A%2F%2Fs-ssl.wordpress.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>blog</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>it-IT</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://robnewtec.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>

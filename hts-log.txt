@@ -1,0 +1,266 @@
+HTTrack3.49-5 launched on Sat, 29 Nov 2025 13:50:02 at https://robnewtec.wordpress.com/
+(winhttrack https://robnewtec.wordpress.com/ -O "/home/andrea/websites/sito" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:50:27	Error: 	"Not Allowed" (405) at link https://robnewtec.wordpress.com/xmlrpc.php (from https://robnewtec.wordpress.com/)
+14:00:10	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/GET (from https://robnewtec.wordpress.com/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/mbot/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/mbot/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Mbot&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmbot%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/mbot/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/mbot/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmbot%2F&t=Mbot
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/mbot/GET (from https://robnewtec.wordpress.com/mbot/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/programmare-mbot-con-openroberta/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/programmare-mbot-con-openroberta/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Programmare%20Mbot%20con%20OpenRoberta&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fprogrammare-mbot-con-openroberta%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/programmare-mbot-con-openroberta/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/programmare-mbot-con-openroberta/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fprogrammare-mbot-con-openroberta%2F&t=Programmare%20Mbot%20con%20OpenRoberta
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/programmare-mbot-con-openroberta/GET (from https://robnewtec.wordpress.com/programmare-mbot-con-openroberta/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/lego/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/lego/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Lego&url=https%3A%2F%2Frobnewtec.wordpress.com%2Flego%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/lego/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/lego/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Flego%2F&t=Lego
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/lego/GET (from https://robnewtec.wordpress.com/lego/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/lego-spike/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/lego-spike/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Lego%20Spike&url=https%3A%2F%2Frobnewtec.wordpress.com%2Flego-spike%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/lego-spike/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/lego-spike/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Flego-spike%2F&t=Lego%20Spike
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/lego-spike/GET (from https://robnewtec.wordpress.com/lego-spike/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/openrobertaev3/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/openrobertaev3/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=OpenRobertaEV3&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fopenrobertaev3%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/openrobertaev3/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/openrobertaev3/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fopenrobertaev3%2F&t=OpenRobertaEV3
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/openrobertaev3/GET (from https://robnewtec.wordpress.com/openrobertaev3/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/legoev3blocchi/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/legoev3blocchi/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Lego%20Ev3%20Programmazione%20a%20Blocchi&url=https%3A%2F%2Frobnewtec.wordpress.com%2Flegoev3blocchi%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/legoev3blocchi/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/legoev3blocchi/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Flegoev3blocchi%2F&t=Lego%20Ev3%20Programmazione%20a%20Blocchi
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/legoev3blocchi/GET (from https://robnewtec.wordpress.com/legoev3blocchi/)
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/corso-nxc/?share=twitter
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/corso-nxc/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Corso%20NXC&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fcorso-nxc%2F
+14:00:13	Warning: 	Found for https://robnewtec.wordpress.com/corso-nxc/?share=facebook
+14:00:13	Warning: 	File has moved from https://robnewtec.wordpress.com/corso-nxc/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fcorso-nxc%2F&t=Corso%20NXC
+14:00:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/corso-nxc/GET (from https://robnewtec.wordpress.com/corso-nxc/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/robotc/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/robotc/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=RobotC&url=https%3A%2F%2Frobnewtec.wordpress.com%2Frobotc%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/robotc/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/robotc/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Frobotc%2F&t=RobotC
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/robotc/GET (from https://robnewtec.wordpress.com/robotc/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/lego-nxt/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/lego-nxt/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=IL%20ROBOT%20LEGO%20NXT&url=https%3A%2F%2Frobnewtec.wordpress.com%2Flego-nxt%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/lego-nxt/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/lego-nxt/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Flego-nxt%2F&t=IL%20ROBOT%20LEGO%20NXT
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/lego-nxt/GET (from https://robnewtec.wordpress.com/lego-nxt/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/il-sensore-di-colore/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/il-sensore-di-colore/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Il%20sensore%20di%20colore%3A%20codici%20NXC&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fil-sensore-di-colore%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/il-sensore-di-colore/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/il-sensore-di-colore/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fil-sensore-di-colore%2F&t=Il%20sensore%20di%20colore%3A%20codici%20NXC
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/il-sensore-di-colore/GET (from https://robnewtec.wordpress.com/il-sensore-di-colore/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/arduino/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/arduino/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Arduino&url=https%3A%2F%2Frobnewtec.wordpress.com%2Farduino%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/arduino/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/arduino/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Farduino%2F&t=Arduino
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/arduino/GET (from https://robnewtec.wordpress.com/arduino/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/uno-pinout/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/uno-pinout/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=UNO%20Pinout&url=https%3A%2F%2Frobnewtec.wordpress.com%2Funo-pinout%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/uno-pinout/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/uno-pinout/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Funo-pinout%2F&t=UNO%20Pinout
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/uno-pinout/GET (from https://robnewtec.wordpress.com/uno-pinout/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/uno-r3-schematic-reference/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/uno-r3-schematic-reference/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=UNO%20R3%20Schematic%20%26%20Reference&url=https%3A%2F%2Frobnewtec.wordpress.com%2Funo-r3-schematic-reference%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/uno-r3-schematic-reference/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/uno-r3-schematic-reference/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Funo-r3-schematic-reference%2F&t=UNO%20R3%20Schematic%20%26%20Reference
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/uno-r3-schematic-reference/GET (from https://robnewtec.wordpress.com/uno-r3-schematic-reference/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/corso-base/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/corso-base/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Corso%20Base%20di%20Arduino&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fcorso-base%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/corso-base/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/corso-base/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fcorso-base%2F&t=Corso%20Base%20di%20Arduino
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/corso-base/GET (from https://robnewtec.wordpress.com/corso-base/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/arduino-alvik/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/arduino-alvik/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Arduino%20Alvik&url=https%3A%2F%2Frobnewtec.wordpress.com%2Farduino-alvik%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/arduino-alvik/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/arduino-alvik/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Farduino-alvik%2F&t=Arduino%20Alvik
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/arduino-alvik/GET (from https://robnewtec.wordpress.com/arduino-alvik/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/software-per-la-didattica/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/software-per-la-didattica/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Software&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fsoftware-per-la-didattica%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/software-per-la-didattica/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/software-per-la-didattica/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fsoftware-per-la-didattica%2F&t=Software
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/software-per-la-didattica/GET (from https://robnewtec.wordpress.com/software-per-la-didattica/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/bambustudio/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/bambustudio/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Bambustudio&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fbambustudio%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/bambustudio/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/bambustudio/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fbambustudio%2F&t=Bambustudio
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/bambustudio/GET (from https://robnewtec.wordpress.com/bambustudio/)
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/freecad/?share=twitter
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/freecad/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Freecad&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ffreecad%2F
+14:00:55	Warning: 	Found for https://robnewtec.wordpress.com/freecad/?share=facebook
+14:00:55	Warning: 	File has moved from https://robnewtec.wordpress.com/freecad/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ffreecad%2F&t=Freecad
+14:00:55	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/freecad/GET (from https://robnewtec.wordpress.com/freecad/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Tinkercad&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad%2F&t=Tinkercad
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/tinkercad/GET (from https://robnewtec.wordpress.com/tinkercad/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/blender/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/blender/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Blender&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fblender%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/blender/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/blender/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fblender%2F&t=Blender
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/blender/GET (from https://robnewtec.wordpress.com/blender/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/onshape/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/onshape/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=OnShape&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fonshape%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/onshape/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/onshape/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fonshape%2F&t=OnShape
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/onshape/GET (from https://robnewtec.wordpress.com/onshape/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/sugarcad/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/sugarcad/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=SugarCAD&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fsugarcad%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/sugarcad/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/sugarcad/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fsugarcad%2F&t=SugarCAD
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/sugarcad/GET (from https://robnewtec.wordpress.com/sugarcad/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/progetti-hardware-software/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/progetti-hardware-software/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Progetti%20Hardware%20%2F%20Software&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fprogetti-hardware-software%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/progetti-hardware-software/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/progetti-hardware-software/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fprogetti-hardware-software%2F&t=Progetti%20Hardware%20%2F%20Software
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/progetti-hardware-software/GET (from https://robnewtec.wordpress.com/progetti-hardware-software/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/dolcino/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/dolcino/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Dolcino&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fdolcino%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/dolcino/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/dolcino/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fdolcino%2F&t=Dolcino
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/dolcino/GET (from https://robnewtec.wordpress.com/dolcino/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/fresa-cnc/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/fresa-cnc/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Fresa%20CNC&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ffresa-cnc%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/fresa-cnc/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/fresa-cnc/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ffresa-cnc%2F&t=Fresa%20CNC
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/fresa-cnc/GET (from https://robnewtec.wordpress.com/fresa-cnc/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie-2/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie-2/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Astronomia%20con%20le%20nuove%20tecnologie&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fastronomia-con-le-nuove-tecnologie-2%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie-2/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie-2/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fastronomia-con-le-nuove-tecnologie-2%2F&t=Astronomia%20con%20le%20nuove%20tecnologie
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie-2/GET (from https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie-2/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/meridiana-digitale/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/meridiana-digitale/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Meridiana%20digitale&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmeridiana-digitale%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/meridiana-digitale/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/meridiana-digitale/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmeridiana-digitale%2F&t=Meridiana%20digitale
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/meridiana-digitale/GET (from https://robnewtec.wordpress.com/meridiana-digitale/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/montatura-equatoriale/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/montatura-equatoriale/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Montatura%20equatoriale%20motorizzata&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmontatura-equatoriale%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/montatura-equatoriale/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/montatura-equatoriale/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmontatura-equatoriale%2F&t=Montatura%20equatoriale%20motorizzata
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/montatura-equatoriale/GET (from https://robnewtec.wordpress.com/montatura-equatoriale/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Software%20astronomici&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fastronomia-con-le-nuove-tecnologie%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fastronomia-con-le-nuove-tecnologie%2F&t=Software%20astronomici
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie/GET (from https://robnewtec.wordpress.com/astronomia-con-le-nuove-tecnologie/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/puntatore-astronomico/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/puntatore-astronomico/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Puntatore%20astronomico&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fpuntatore-astronomico%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/puntatore-astronomico/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/puntatore-astronomico/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fpuntatore-astronomico%2F&t=Puntatore%20astronomico
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/puntatore-astronomico/GET (from https://robnewtec.wordpress.com/puntatore-astronomico/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/installazione-del-software/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/installazione-del-software/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Mondi%20virtuali&url=https%3A%2F%2Frobnewtec.wordpress.com%2Finstallazione-del-software%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/installazione-del-software/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/installazione-del-software/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Finstallazione-del-software%2F&t=Mondi%20virtuali
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/installazione-del-software/GET (from https://robnewtec.wordpress.com/installazione-del-software/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Mondi%20virtuali%2Finstallazione%20del%20software&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali%2F&t=Mondi%20virtuali%2Finstallazione%20del%20software
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/mondi-virtuali/GET (from https://robnewtec.wordpress.com/mondi-virtuali/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali-creazione-di-oggetti-e-contenuti/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali-creazione-di-oggetti-e-contenuti/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Mondi%20virtuali%2Fcreazione%20di%20oggetti%20e%20contenuti&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali-creazione-di-oggetti-e-contenuti%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali-creazione-di-oggetti-e-contenuti/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali-creazione-di-oggetti-e-contenuti/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali-creazione-di-oggetti-e-contenuti%2F&t=Mondi%20virtuali%2Fcreazione%20di%20oggetti%20e%20contenuti
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/mondi-virtuali-creazione-di-oggetti-e-contenuti/GET (from https://robnewtec.wordpress.com/mondi-virtuali-creazione-di-oggetti-e-contenuti/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali-gestione-del-server/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali-gestione-del-server/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Mondi%20virtuali%2FGestione%20del%20server&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali-gestione-del-server%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali-gestione-del-server/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali-gestione-del-server/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali-gestione-del-server%2F&t=Mondi%20virtuali%2FGestione%20del%20server
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/mondi-virtuali-gestione-del-server/GET (from https://robnewtec.wordpress.com/mondi-virtuali-gestione-del-server/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali-linguaggio-di-scripting/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali-linguaggio-di-scripting/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Mondi%20virtuali%2Flinguaggio%20di%20scripting&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali-linguaggio-di-scripting%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/mondi-virtuali-linguaggio-di-scripting/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/mondi-virtuali-linguaggio-di-scripting/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fmondi-virtuali-linguaggio-di-scripting%2F&t=Mondi%20virtuali%2Flinguaggio%20di%20scripting
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/mondi-virtuali-linguaggio-di-scripting/GET (from https://robnewtec.wordpress.com/mondi-virtuali-linguaggio-di-scripting/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/scratch/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/scratch/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Scratch&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fscratch%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/scratch/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/scratch/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fscratch%2F&t=Scratch
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/scratch/GET (from https://robnewtec.wordpress.com/scratch/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/ausili-ai-corsi/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/ausili-ai-corsi/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Ausili%20ai%20corsi&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fausili-ai-corsi%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/ausili-ai-corsi/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/ausili-ai-corsi/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fausili-ai-corsi%2F&t=Ausili%20ai%20corsi
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/ausili-ai-corsi/GET (from https://robnewtec.wordpress.com/ausili-ai-corsi/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/scienza-con-lego-spike/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/scienza-con-lego-spike/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Scienza%20con%20Lego%20Spike&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fscienza-con-lego-spike%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/scienza-con-lego-spike/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/scienza-con-lego-spike/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fscienza-con-lego-spike%2F&t=Scienza%20con%20Lego%20Spike
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/scienza-con-lego-spike/GET (from https://robnewtec.wordpress.com/scienza-con-lego-spike/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/risorse-per-la-stampa-in-3d/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/risorse-per-la-stampa-in-3d/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Risorse%20per%20la%20stampa%20in%203D&url=https%3A%2F%2Frobnewtec.wordpress.com%2Frisorse-per-la-stampa-in-3d%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/risorse-per-la-stampa-in-3d/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/risorse-per-la-stampa-in-3d/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Frisorse-per-la-stampa-in-3d%2F&t=Risorse%20per%20la%20stampa%20in%203D
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/risorse-per-la-stampa-in-3d/GET (from https://robnewtec.wordpress.com/risorse-per-la-stampa-in-3d/)
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/stampa-3d-idee/?share=twitter
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/stampa-3d-idee/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Stampa%203D%20%3A%20idee&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fstampa-3d-idee%2F
+14:02:45	Warning: 	Found for https://robnewtec.wordpress.com/stampa-3d-idee/?share=facebook
+14:02:45	Warning: 	File has moved from https://robnewtec.wordpress.com/stampa-3d-idee/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fstampa-3d-idee%2F&t=Stampa%203D%20%3A%20idee
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/stampa-3d-idee/GET (from https://robnewtec.wordpress.com/stampa-3d-idee/)
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/2016/09/28/prova-prova/GET (from https://robnewtec.wordpress.com/2016/09/28/prova-prova/)
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/category/senza-categoria/GET (from https://robnewtec.wordpress.com/category/senza-categoria/)
+14:02:45	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/author/andreacristofori/GET (from https://robnewtec.wordpress.com/author/andreacristofori/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/robotc-blocchi/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/robotc-blocchi/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Graphic%20RobotC%20%20%28RobotC%20a%20Blocchi%29&url=https%3A%2F%2Frobnewtec.wordpress.com%2Frobotc-blocchi%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/robotc-blocchi/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/robotc-blocchi/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Frobotc-blocchi%2F&t=Graphic%20RobotC%20%20%28RobotC%20a%20Blocchi%29
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/robotc-blocchi/GET (from https://robnewtec.wordpress.com/robotc-blocchi/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/robotc-2/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/robotc-2/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=RobotC%20natural%20language&url=https%3A%2F%2Frobnewtec.wordpress.com%2Frobotc-2%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/robotc-2/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/robotc-2/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Frobotc-2%2F&t=RobotC%20natural%20language
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/robotc-2/GET (from https://robnewtec.wordpress.com/robotc-2/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad-progetti-3d-2/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad-progetti-3d-2/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Tinkercad%20Progetti%203D&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad-progetti-3d-2%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad-progetti-3d-2/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad-progetti-3d-2/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad-progetti-3d-2%2F&t=Tinkercad%20Progetti%203D
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/tinkercad-progetti-3d-2/GET (from https://robnewtec.wordpress.com/tinkercad-progetti-3d-2/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad-circuits/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad-circuits/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Tinkercad%20circuits&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad-circuits%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad-circuits/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad-circuits/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad-circuits%2F&t=Tinkercad%20circuits
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/tinkercad-circuits/GET (from https://robnewtec.wordpress.com/tinkercad-circuits/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad-codeblocks/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad-codeblocks/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Tinkercad%20codeblocks&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad-codeblocks%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/tinkercad-codeblocks/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/tinkercad-codeblocks/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ftinkercad-codeblocks%2F&t=Tinkercad%20codeblocks
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/tinkercad-codeblocks/GET (from https://robnewtec.wordpress.com/tinkercad-codeblocks/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/helpsimplebehaviors/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/helpsimplebehaviors/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Simple%20Behaviors&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fhelpsimplebehaviors%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/helpsimplebehaviors/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/helpsimplebehaviors/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fhelpsimplebehaviors%2F&t=Simple%20Behaviors
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/helpsimplebehaviors/GET (from https://robnewtec.wordpress.com/helpsimplebehaviors/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/helpmotorcommands/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/helpmotorcommands/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Motor%20Commands&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fhelpmotorcommands%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/helpmotorcommands/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/helpmotorcommands/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fhelpmotorcommands%2F&t=Motor%20Commands
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/helpmotorcommands/GET (from https://robnewtec.wordpress.com/helpmotorcommands/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/timing-2/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/timing-2/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Timing&url=https%3A%2F%2Frobnewtec.wordpress.com%2Ftiming-2%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/timing-2/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/timing-2/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Ftiming-2%2F&t=Timing
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/timing-2/GET (from https://robnewtec.wordpress.com/timing-2/)
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/datalog-2/?share=twitter
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/datalog-2/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Datalog2&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fdatalog-2%2F
+14:03:13	Warning: 	Found for https://robnewtec.wordpress.com/datalog-2/?share=facebook
+14:03:13	Warning: 	File has moved from https://robnewtec.wordpress.com/datalog-2/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fdatalog-2%2F&t=Datalog2
+14:03:13	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/datalog-2/GET (from https://robnewtec.wordpress.com/datalog-2/)
+14:03:14	Warning: 	Found for https://robnewtec.wordpress.com/display-3/?share=twitter
+14:03:14	Warning: 	File has moved from https://robnewtec.wordpress.com/display-3/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Display2&url=https%3A%2F%2Frobnewtec.wordpress.com%2Fdisplay-3%2F
+14:03:14	Warning: 	Found for https://robnewtec.wordpress.com/display-3/?share=facebook
+14:03:14	Warning: 	File has moved from https://robnewtec.wordpress.com/display-3/?share=facebook to https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frobnewtec.wordpress.com%2Fdisplay-3%2F&t=Display2
+14:03:14	Error: 	"Not Found" (404) at link https://robnewtec.wordpress.com/display-3/GET (from https://robnewtec.wordpress.com/display-3/)
+
+HTTrack Website Copier/3.49-5 mirror complete in 13 minutes 12 seconds : 927 links scanned, 771 files written (24165743 bytes overall) [19366818 bytes received at 24453 bytes/sec], 11833512 bytes transferred using HTTP compression in 153 files, ratio 25%, 33.1 requests per connection
+(55 errors, 200 warnings, 0 messages)
